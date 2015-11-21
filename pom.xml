@@ -45,8 +45,7 @@
 		<dependency>
 			<groupId>com.klarna</groupId>
 			<artifactId>hiverunner</artifactId>
-			<version>${hiverunner.version}</version>
-			<scope>test</scope>
+			<version>2.5.1</version>
 		</dependency>
 	</dependencies>
 </project>
